@@ -55,7 +55,7 @@ a{
 }
 
 body{
-    max-width: 1170px;
+    /* max-width: 1170px; */
     overflow-x: hidden;
 }
 
